@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "668072006988",
+    "project_id": "rbnb-61665",
+    "storage_bucket": "rbnb-61665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668072006988:android:269e9859201f8ca5596be9",
+        "android_client_info": {
+          "package_name": "com.vacationplanner.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668072006988-559rkc61m1jg7r9h4udvsc77hjercisb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wLGoc3I381tBlG6jA1xA90BVBQbnnGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668072006988-559rkc61m1jg7r9h4udvsc77hjercisb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668072006988-pk3sd6q6uaif24gagsp7c4j8cg959dku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vacationplanner.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
